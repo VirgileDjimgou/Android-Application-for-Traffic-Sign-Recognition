@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <stroke android:width="1dp" android:color="#ffffff"/>
+            <corners android:radius="40dp"/>
+            <gradient android:startColor="@color/red"
+                android:centerColor="@color/red"
+                android:endColor="@color/red" android:angle="90" />
+
+
+            <!-- You can create different radius for different corners -->
+            <!--corners
+                android:topLeftRadius="5dp"
+                android:topRightRadius="5dp"
+                android:bottomLeftRadius="5dp"
+                android:bottomRightRadius="5dp"
+                /-->
+        </shape>
+    </item>
+</selector>
