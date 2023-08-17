@@ -1,4 +1,4 @@
-# Android Application for Traffic Sign Recognition (APTSR)
+# Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
 Motivation
 
