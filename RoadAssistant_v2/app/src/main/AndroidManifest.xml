@@ -13,9 +13,9 @@
     <application
         android:name="com.roadassistant.application.CarAssistantApplication"
         android:allowBackup="false"
-        android:icon="@drawable/ic_car"
+        android:icon="@drawable/eye_100"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/ic_car"
+        android:roundIcon="@drawable/eye_100"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
