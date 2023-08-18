@@ -1,9 +1,9 @@
-apply plugin: 'com.android.application'
+// apply plugin: 'com.android.application'
 //apply plugin: 'com.google.gms.google-services'
-
-//pass carassistant
-//alias car_assistant
-//pass carassistant
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
 
 android {
     compileSdkVersion 30
@@ -28,6 +28,10 @@ android {
     compileOptions {
         sourceCompatibility = '1.8'
         targetCompatibility = '1.8'
+    }
+
+    kotlinOptions {
+        jvmTarget = '1.8'
     }
 }
 
@@ -59,4 +63,12 @@ dependencies {
     implementation 'com.google.code.gson:gson:2.8.5'
 
     implementation 'org.tensorflow:tensorflow-lite:1.14.0'
+
+    // Card Box Layout with kotlin
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    implementation 'androidx.core:core-ktx:1.3.2'
+    implementation 'androidx.appcompat:appcompat:1.2.0'
+    implementation 'com.google.android.material:material:1.3.0-alpha04'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+
 }
