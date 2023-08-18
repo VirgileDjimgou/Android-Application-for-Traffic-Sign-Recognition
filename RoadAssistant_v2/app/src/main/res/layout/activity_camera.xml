@@ -17,7 +17,6 @@
             layout="@layout/main_layout"
             android:visibility="visible" />
 
-
         <FrameLayout
             android:id="@+id/container"
             android:layout_width="wrap_content"
