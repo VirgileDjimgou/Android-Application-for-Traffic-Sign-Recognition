@@ -31,15 +31,6 @@ APTSR is a camera-based feature, and its usage is highly demanding for a phoneâ€
 <img src="https://github.com/TehKonnos/RTTSD_Thesis/raw/main/Rttsd%20Simulator%20(1).gif" width="255" height="540">
 
 
-Other Libraries/Tools Used
-~~~~~~~~~~~~~~~~~~~~~~~~~~
-APTSR/Road Assistant uses the following third party libraries and would like
-to thank all of them for making life easier for developers.
-
-Metouia Look And Feel :
- A free pluggable look and feel for java. License : GNU LGPL 
- http://mlf.sourceforge.net 
-
  Who made this
 --------------
 
@@ -53,7 +44,7 @@ Contribute
 ----------
 
 1. Create an issue to discuss about your idea
-2. [Fork it] (https://github.com/VirgileDjimgou/P156_Cartographie_Gmap_237)
+2. [Fork it] (https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition.git)
 3. Create your feature branch (`git checkout -b my-new-feature`)
 4. Commit your changes (`git commit -am 'Add some feature'`)
 5. Push to the branch (`git push origin my-new-feature`)
