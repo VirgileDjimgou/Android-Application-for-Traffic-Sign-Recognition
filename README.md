@@ -29,3 +29,33 @@ Important notice:
 Please note that the performance of Android Application for Traffic Sign recognition depends on several factors, such as light and weather conditions, cleanliness of the windshield, phone placement, etc.
 APTSR is a camera-based feature, and its usage is highly demanding for a phone’s operation.therefore, this application may not work optimally on Smartphones that do not have sufficient computing power or older generation phones
 <img src="https://github.com/TehKonnos/RTTSD_Thesis/raw/main/Rttsd%20Simulator%20(1).gif" width="255" height="540">
+
+
+Other Libraries/Tools Used
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+APTSR/Road Assistant uses the following third party libraries and would like
+to thank all of them for making life easier for developers.
+
+Metouia Look And Feel :
+ A free pluggable look and feel for java. License : GNU LGPL 
+ http://mlf.sourceforge.net 
+
+ Who made this
+--------------
+
+| <a href="https://github.com/VirgileDjimgou"><img src="https://avatars1.githubusercontent.com/u/8148300?s=400&v=4" alt="IoEngine" align="left" height="100" width="100" /></a>
+|---
+| [VirgileDjimgou](https://github.com/VirgileDjimgou)
+
+
+
+Contribute
+----------
+
+1. Create an issue to discuss about your idea
+2. [Fork it] (https://github.com/VirgileDjimgou/P156_Cartographie_Gmap_237)
+3. Create your feature branch (`git checkout -b my-new-feature`)
+4. Commit your changes (`git commit -am 'Add some feature'`)
+5. Push to the branch (`git push origin my-new-feature`)
+6. Create a new Pull Request
+7. Profit! :white_check_mark:
