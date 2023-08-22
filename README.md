@@ -1,5 +1,11 @@
 # Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
+⚠️ Important notice ⚠️
+
+This application is still in development phase and therefore subject to many malfunctions. So I don't recommend using them in a real situation unless you are a curious developer who wants to participate in the development...
+
+Diese Anwendung befindet sich noch in der Entwicklungsphase und unterliegt daher vielen Fehlfunktionen. Daher empfehle ich nicht, sie in einer realen Situation zu verwenden, es sei denn, Sie sind ein neugieriger Entwickler, der an der Entwicklung teilnehmen möchte :). 
+
 
 <img src="https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition/blob/master/Doc/Record_gif.gif" width="255" height="540">
 
@@ -31,16 +37,13 @@ Android Traffic Sign Recognition uses advanced forward-facing cameras of Android
 ![Alt text](trafficrecognition-1.PNG)
 
 =======
-<img src="Screenshot_2023-08-22-02-50-56-65_7c812a5677f73e9833a2910b939c9785.jpg" width="100" height="100">
->>>>>>> 472176c91ec9548631a38980c88db7d5cee800bf
 
-![Alt text](Screenshot_2023-08-22-02-51-07-09_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-50-56-65_7c812a5677f73e9833a2910b939c9785.jpg)
+⚠️ Important notice 2 ⚠️
 
-![Alt text](Screenshot_2023-08-22-02-51-31-01_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-52-01-92_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-16-63_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-23-11_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-54-83_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-55-02-13_7c812a5677f73e9833a2910b939c9785.jpg)
-
-Important notice:
 Please note that the performance of Android Application for Traffic Sign recognition depends on several factors, such as light and weather conditions, cleanliness of the windshield, phone placement, etc.
-APTSR is a camera-based feature, and its usage is highly demanding for a phone’s operation.therefore, this application may not work optimally on Smartphones that do not have sufficient computing power or older generation phones
+APTSR is a camera-based feature, and its usage is highly demanding for a phone’s operation.therefore, this application may not work optimally on Smartphones that do not have sufficient computing power or older generation phones.
+
+
 
  Who made this
 --------------
