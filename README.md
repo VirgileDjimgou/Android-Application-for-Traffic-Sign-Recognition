@@ -8,8 +8,7 @@ Motivation
 
 In 2020,the european commission publishes this statistic : <<  About 30% of road fatalities are caused by excessive or inappropriate speed. published main causes for driver errors in road traffic accidents with personal injury >> . On the other side of the Atlantic; the same situation can be observed in North America,in particular in the United State where 26% of all motor vehicle-related fatalities occurred in speed-related crashes.
 
-![Alt text](roadTrafficFatalities-1.PNG)
-
+![Alt text](roadTrafficFatalities.PNG)
 
 In recent decades, new driving aid tools have been introduced on most recent vehicles. which had the effect of significantly reducing the statistics related to inattention in a driving situation.however, these new tools cannot be integrated into older generation cars. hence the idea of developing this Android AI application and integrating new advances in artificial intelligence and real-time image analysis. An affordable AI-based solution with an attractive user interface for automated speed limit and could provide real-time information about any currently valid limit to drivers of any car type, increasing security on the road significantly.
 
@@ -28,6 +27,9 @@ How does APTSR work ?
 
 Android Traffic Sign Recognition uses advanced forward-facing cameras of Android Smartphone, generally mounted to the windshield, near the rear-view mirror. The smartphone camera handles road sign detection, and software processes them to classify what certain traffic signs mean. 
 
+![Alt text](Screenshot_2023-08-22-02-51-07-09_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-50-56-65_7c812a5677f73e9833a2910b939c9785.jpg)
+
+![Alt text](Screenshot_2023-08-22-02-51-31-01_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-52-01-92_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-16-63_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-23-11_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-54-83_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-55-02-13_7c812a5677f73e9833a2910b939c9785.jpg)
 
 Important notice:
 Please note that the performance of Android Application for Traffic Sign recognition depends on several factors, such as light and weather conditions, cleanliness of the windshield, phone placement, etc.
