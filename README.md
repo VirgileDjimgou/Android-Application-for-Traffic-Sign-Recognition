@@ -27,6 +27,8 @@ How does APTSR work ?
 
 Android Traffic Sign Recognition uses advanced forward-facing cameras of Android Smartphone, generally mounted to the windshield, near the rear-view mirror. The smartphone camera handles road sign detection, and software processes them to classify what certain traffic signs mean. 
 
+<img src="Screenshot_2023-08-22-02-50-56-65_7c812a5677f73e9833a2910b939c9785.jpg" width="100" height="100">
+
 ![Alt text](Screenshot_2023-08-22-02-51-07-09_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-50-56-65_7c812a5677f73e9833a2910b939c9785.jpg)
 
 ![Alt text](Screenshot_2023-08-22-02-51-31-01_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-52-01-92_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-16-63_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-23-11_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-54-54-83_7c812a5677f73e9833a2910b939c9785.jpg) ![Alt text](Screenshot_2023-08-22-02-55-02-13_7c812a5677f73e9833a2910b939c9785.jpg)
