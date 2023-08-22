@@ -1,6 +1,8 @@
 # Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
-<video src="Record_2023-08-21-15-19-29.mp4" controls title="Road Assistant in Action :) "></video>
+
+<img src="https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition/blob/master/Doc/Record_gif.gif" width="255" height="540">
+
 
 Motivation
 
@@ -30,8 +32,6 @@ Android Traffic Sign Recognition uses advanced forward-facing cameras of Android
 Important notice:
 Please note that the performance of Android Application for Traffic Sign recognition depends on several factors, such as light and weather conditions, cleanliness of the windshield, phone placement, etc.
 APTSR is a camera-based feature, and its usage is highly demanding for a phone’s operation.therefore, this application may not work optimally on Smartphones that do not have sufficient computing power or older generation phones
-<img src="https://github.com/VirgileDjimgou/Android-Application-for-Traffic-Sign-Recognition/blob/master/Doc/Record_gif.gif" width="255" height="540">
-
 
  Who made this
 --------------
