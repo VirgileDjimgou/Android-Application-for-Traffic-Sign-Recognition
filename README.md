@@ -1,5 +1,7 @@
 # Android Application for Traffic Sign Recognition (APTSR/Road Assistant)
 
+<video src="Record_2023-08-21-15-19-29.mp4" controls title="Road Assistant in Action :) "></video>
+
 Motivation
 
 In 2020,the european commission publishes this statistic : <<  About 30% of road fatalities are caused by excessive or inappropriate speed. published main causes for driver errors in road traffic accidents with personal injury >> . On the other side of the Atlantic; the same situation can be observed in North America,in particular in the United State where 26% of all motor vehicle-related fatalities occurred in speed-related crashes.
